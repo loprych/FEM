@@ -695,7 +695,7 @@ int main() {
 
     cout << endl;
 
-    cout << "Ilosc punktow calkowania n+1 (2,3,4), wprowadz n:" << endl;
+    cout << "Wybor schematu calkowania calkowania (2,3,4) w formacie n+1, wprowadz n, (przyklad schemat 2 pkt n = 1):" << endl;
     int c = 0;
     cin >> c;
 
